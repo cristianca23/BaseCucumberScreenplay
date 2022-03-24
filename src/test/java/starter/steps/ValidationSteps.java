@@ -1,7 +1,9 @@
-package steps;
-import net.thucydides.core.annotations.Step;
+package starter.steps;
 
-import pageobjects.SaucedemoLoginPage;
+import net.thucydides.core.annotations.Step;
+import starter.pageobjects.SaucedemoLoginPage;
+
+
 public class ValidationSteps {
 
     SaucedemoLoginPage saucedemoLoginPage;
